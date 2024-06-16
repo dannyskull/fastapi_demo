@@ -1,0 +1,3 @@
+fastapi
+cv2
+numpy
